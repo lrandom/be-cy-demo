@@ -7,6 +7,6 @@ public class CyDemo {
     }
 
     public void hello() {
-
+        System.out.println("Hello");
     }
 }
